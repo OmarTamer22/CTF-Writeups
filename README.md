@@ -1,8 +1,8 @@
 # Write-Up Repository for Cybersecurity Challenges
 This repository contains links to my write-ups for various challenges I've successfully solved on different platforms.<br>
-- [LetsDefend](#letsdefend-platform)
-- [CyberTalents](#cybertalents-platform)
-- [CyberDefenders](#cyberdefenders-platform) 
+- [LetsDefend](#1-letsdefend-platform)
+- [CyberTalents](#2-cybertalents-platform)
+- [CyberDefenders](#3-cyberdefenders-platform)
 
 
 <br><br>
