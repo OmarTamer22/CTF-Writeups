@@ -4,45 +4,6 @@ This repository contains links to my write-ups for various challenges I've succe
 - [CyberTalents](#2-cybertalents-platform)
 - [CyberDefenders](#3-cyberdefenders-platform)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ## 1. LetsDefend Platform
 ### 1.1 Phishing Email 
 It is a begianer level challenge in the Email Analysis category. <br>
